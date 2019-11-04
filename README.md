@@ -1,6 +1,8 @@
 # pwnagotchi-18650
 A pwnagotchi case with space for an 18650
 
+* Full credit to Evil Socket for this awesome project: https://github.com/evilsocket/pwnagotchi
+
 ## Why?
 Because sometimes you want to blow fat clouds, sometimes you want to pwn wifi. I had a few 18650s sitting around and wanted to learn 3D modeling, so I created this. It isn't pretty, or properly designed.
 
